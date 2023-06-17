@@ -1,0 +1,13 @@
+		(1)	(2)
+VARIABLES	LABELS	Elearn Classrooms Standardized Combined Math and Science Test Score (Project)	Elearn Classrooms Standardized Combined Project and PEC
+			
+treatment	Treatment school	0.255*	0.270**
+		(0.134)	(0.119)
+Constant	Constant	0.335**	0.105
+		(0.140)	(0.205)
+			
+Observations		2,622	2,463
+R-squared		0.133	0.202
+Control mean			1.85e-09
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			
